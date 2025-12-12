@@ -1,0 +1,47 @@
+EDA - brief look into data:
+
+* missing data:
+    - waterfront        ~ 12%    not important
+    - year renovated    ~ 19%    likely important vor selling
+    - ft^2 of basement  ~  2%    may be important for buying
+    - view              < 10     not important
+    - no correlation between missing values
+
+* more sales_ids than house_ids => some houses were sold multiple times
+
+* categorial columns:
+	- waterfront
+	- view
+	- condition
+	- grade
+	- Zipcode?!
+
+* Research Questions:
+	1. What is the best timing strategy when selling multiple central houses over time to get best prices?
+	2. What costs can be expected for houses that suit the client best?
+
+* Hypotheses
+	1.1 House prices differ from month to month.
+		-> Yes, from end of November to Februar prices are generally lowest and highest from April to June.
+	1.2 There is a general trend of increasing house prices in the city centre.
+		-> Can’t be confirmed due to very small temporal range of data set. Internet research yielded overall 3 year stagnation at best slightly increasing trend. In city centre rather negative Trent.
+	2.1 Houses further away from the centre cost less. (Geographical Hypotheses)
+		-> Did not assess this because I changed strategy!
+	2.2 Houses in outskirt neighborhoods with good accessibility cost more. (Geographical Hypotheses)
+
+
+
+About client:
+
+Amy Williams
+Mafiosi, sells several central houses(top10%) over time, needs average outskirt houses over time to hide from the FBI
+
+Try to sell houses as high as positive
+
+Point of view for presentation: Try to pass her off as a law-abiding business woman
+
+
+
+Look for additional data for King county neighborhoods on the internet:
+
+geographical areas, accessibility, public survailance
