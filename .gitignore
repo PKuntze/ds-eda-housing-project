@@ -143,6 +143,7 @@ data/*.zip
 data/*.gsv
 data/*.json
 data/*.key
+data/zip_codes_wa/*
 
 # models
 models/*.pickle
