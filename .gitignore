@@ -142,6 +142,7 @@ data/*.zip
 data/*.gsv
 data/*.json
 data/*.key
+data/*.shp
 data/zip_codes_wa/*
 
 # models
